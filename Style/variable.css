@@ -1,0 +1,15 @@
+/* Custom fonts used on the website */
+@font-face {
+  font-family: "Canvas";
+  src: url(Fonts/Canvas.otf);
+}
+@font-face {
+  font-family: "Lemon Milk";
+  src: url(Fonts/LemonMilk.otf);
+}
+@font-face {
+  font-family: "Louis George";
+  src: url(Fonts/LouisGeorge.ttf);
+}
+/* Fonts */
+/* Colors *//*# sourceMappingURL=variable.css.map */

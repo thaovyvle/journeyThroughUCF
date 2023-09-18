@@ -1,0 +1,12 @@
+/* Smooth scrolling, especially when clicking on different sections from nav bar */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Stylizations for the Navigation */
+/* Stylizations for the Home Banner */
+/* Stylizations for the About Section */
+/* Stylizations for the Pre-College Section */
+/* Stylizations for the Journey Section */
+/* Stylizations for the Future Plans Section */
+/* Stylizations for the Footer *//*# sourceMappingURL=mixins.css.map */

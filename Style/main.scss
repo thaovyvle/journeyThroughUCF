@@ -1,0 +1,12 @@
+// Imports mixins to this scss file
+@import 'mixins';
+@import 'variable';
+@include navFormat;
+@include homePage;
+@include aboutPage;
+@include preCollegePage;
+@include journeyPage;
+@include futurePage;
+// Mixin with Conditional
+@include footer;
+
